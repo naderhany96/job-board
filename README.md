@@ -139,7 +139,7 @@ A paginated list of jobs that match the filter criteria.
             "location": "New York",
             "years_experience": 3
         },
-        ...
+        
     ],
     "meta": {
         "current_page": 1,
