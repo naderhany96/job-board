@@ -28,7 +28,7 @@ To get the Job Filtering API up and running locally, follow these steps:
 
 ```bash
 git clone https://github.com/naderhany96/job-board.git
-cd job-filtering-api
+cd  job-board
 ```
 
 ### 2. Install dependencies
